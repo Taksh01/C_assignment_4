@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+
 template <typename t>
 t maxArr(t arr[], int count)
 {

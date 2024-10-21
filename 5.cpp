@@ -8,9 +8,9 @@ public:
 };
 
 template <typename T>
-void fTrial(T object)
+void fTrial(T hi)
 {
-    cout << "a value is: " << object.a;
+    cout << "a value is: " << hi.a;
 }
 
 int main()

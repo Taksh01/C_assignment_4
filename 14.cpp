@@ -8,8 +8,7 @@ public:
     T1 age;
     T2 name;
     T3 id;
-
-    void display(age, name, id)
+    void display(T1 age, T2 name, T3 id)
     {
         cout << "Name is: " << name;
         cout << "\nAge is: " << age;
